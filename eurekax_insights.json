@@ -1,1 +1,12 @@
-
+// Each accepted insight is stored like this:
+{
+  "id": "31e9ad34-102f-422a-98e6-123456abcdef",
+  "timestamp": "2025-07-09T18:45:23",
+  "hypothesis": "Can we apply 'graph neural networks for chemistry' from AI to solve 'satellite orbit estimation' in Aerospace?",
+  "domain_1": "graph neural networks for chemistry",
+  "domain_2": "satellite orbit estimation",
+  "novelty": 0.845,
+  "feasibility": 0.692,
+  "score": 0.78,
+  "verdict": "Breakthrough"
+}
