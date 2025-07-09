@@ -1,4 +1,4 @@
-<h1 align="center">🚀 EurekaX</h1>
+<h1 align="center">🚀 EurekaX-v2</h1>
 <p align="center">
   <b>Autonomous Cross-Domain Discovery Engine</b><br>
   An intelligent AI algorithm that generates groundbreaking ideas by fusing knowledge across multiple domains like AI, Quantum Computing, Neuroscience, Aerospace, and Biotech.
